@@ -11,4 +11,6 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public-flutter')));
 
+app.listen(process.env.PORT || 3000);
+
 module.exports = app;
