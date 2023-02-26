@@ -3,28 +3,28 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "3c5bc8dcd8112d0cd8c8aa23f73cc6ba",
+  "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
+"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"assets/AssetManifest.json": "a45840e5e60c7cc00ae3945b8dcb5595",
+"assets/images/ru_digital_logo.png": "4f6e5174c3871a023c435ca33403472c",
+"assets/images/ufpa_logo.png": "f646112c7e5ea833011909f1f6aa52b4",
+"assets/NOTICES": "fd199ac514a45d2a1859a45697592712",
+"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "8db4b7cbc0c8231678e7d602f8331886",
+"main.dart.js": "745b6126140890b1ded4929dde5b497b",
+"manifest.json": "a54c6846930c5e7fea163e828d65c08d",
+"icons/Icon-maskable-192.png": "c37e737195b676529fda36130b8489e9",
 "icons/Icon-512.png": "6c665d48fab0fd5b1a72200a28734e2e",
 "icons/Icon-maskable-512.png": "6c665d48fab0fd5b1a72200a28734e2e",
 "icons/Icon-192.png": "c37e737195b676529fda36130b8489e9",
-"icons/Icon-maskable-192.png": "c37e737195b676529fda36130b8489e9",
-"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"assets/NOTICES": "fd199ac514a45d2a1859a45697592712",
-"assets/AssetManifest.json": "a45840e5e60c7cc00ae3945b8dcb5595",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/images/ru_digital_logo.png": "4f6e5174c3871a023c435ca33403472c",
-"assets/images/ufpa_logo.png": "f646112c7e5ea833011909f1f6aa52b4",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"manifest.json": "df8238c397fc71e98d376611180326ae",
-"main.dart.js": "0bf98d4addb87fc8835c355267559dbf",
-"index.html": "d10430e849455e93ce748e71460f4561",
-"/": "d10430e849455e93ce748e71460f4561"
+"index.html": "7ee43e1758cdd8d9a357588732d43c77",
+"/": "7ee43e1758cdd8d9a357588732d43c77",
+"version.json": "9fff91ce6fb0abc73637b8b90bbb7215"
 };
 
 // The application shell files that are downloaded before a service worker can
