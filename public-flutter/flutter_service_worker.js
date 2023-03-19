@@ -13,18 +13,19 @@ const RESOURCES = {
 "assets/AssetManifest.json": "a45840e5e60c7cc00ae3945b8dcb5595",
 "assets/images/ru_digital_logo.png": "4f6e5174c3871a023c435ca33403472c",
 "assets/images/ufpa_logo.png": "f646112c7e5ea833011909f1f6aa52b4",
-"assets/NOTICES": "fd199ac514a45d2a1859a45697592712",
+"assets/NOTICES": "aa81d7f2205990bcafda87dc85f6af06",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
+"firebase-messaging-sw.js": "d41d8cd98f00b204e9800998ecf8427e",
 "favicon.png": "8db4b7cbc0c8231678e7d602f8331886",
-"main.dart.js": "624ba0860d55fb9aac1c35b74a00e7cd",
+"main.dart.js": "47a3e999193e8dcf1bd4030dc550951e",
 "manifest.json": "a54c6846930c5e7fea163e828d65c08d",
 "icons/Icon-maskable-192.png": "c37e737195b676529fda36130b8489e9",
 "icons/Icon-512.png": "6c665d48fab0fd5b1a72200a28734e2e",
 "icons/Icon-maskable-512.png": "6c665d48fab0fd5b1a72200a28734e2e",
 "icons/Icon-192.png": "c37e737195b676529fda36130b8489e9",
-"index.html": "35148eab33db97b7bb1d9509b1bad1a7",
-"/": "35148eab33db97b7bb1d9509b1bad1a7",
-"version.json": "098e657f50c4bfe4a57809a60eba2e94"
+"index.html": "6c90cb7d60b1e1cdfad99c3092691cbd",
+"/": "6c90cb7d60b1e1cdfad99c3092691cbd",
+"version.json": "91ea40b8785af539746821894345adab"
 };
 
 // The application shell files that are downloaded before a service worker can
