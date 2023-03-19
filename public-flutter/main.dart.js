@@ -71117,7 +71117,7 @@ A.qL.prototype={
 h7(a){var s=0,r=A.L(t.z),q,p=this,o
 var $async$h7=A.F(function(b,c){if(b===1)return A.I(c,r)
 while(true)switch(s){case 0:s=3
-return A.H(A.aJj(A.ez("http://ru.server.net/api",0,null)),$async$h7)
+return A.H(A.aJj(A.ez("https://prinako-ru.cyclic.app/api",0,null)),$async$h7)
 case 3:o=c
 if(o.b===200){q=p.a=B.b1.LW(0,A.aJ3(A.aGJ(o.e).c.a.i(0,"charset")).d1(0,o.w),null)
 s=1
@@ -71126,7 +71126,7 @@ return A.K($async$h7,r)},
 wo(a){return this.aaF(a)},
 aaF(a){var s=0,r=A.L(t.z),q=1,p,o,n,m
 var $async$wo=A.F(function(b,c){if(b===1){p=c
-s=q}while(true)switch(s){case 0:n=A.ez("http://ru.server.net/token",0,null)
+s=q}while(true)switch(s){case 0:n=A.ez("https://prinako-ru.cyclic.app/token",0,null)
 q=3
 s=6
 return A.H(A.aK2(n,A.as(["token",a],t.N,t.T)),$async$wo)
